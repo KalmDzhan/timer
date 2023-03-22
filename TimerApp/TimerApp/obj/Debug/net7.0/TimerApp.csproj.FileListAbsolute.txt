@@ -1,0 +1,15 @@
+C:\Users\djang\source\repos\TimerApp\TimerApp\bin\Debug\net7.0\TimerApp.exe
+C:\Users\djang\source\repos\TimerApp\TimerApp\bin\Debug\net7.0\TimerApp.deps.json
+C:\Users\djang\source\repos\TimerApp\TimerApp\bin\Debug\net7.0\TimerApp.runtimeconfig.json
+C:\Users\djang\source\repos\TimerApp\TimerApp\bin\Debug\net7.0\TimerApp.dll
+C:\Users\djang\source\repos\TimerApp\TimerApp\bin\Debug\net7.0\TimerApp.pdb
+C:\Users\djang\source\repos\TimerApp\TimerApp\obj\Debug\net7.0\TimerApp.csproj.AssemblyReference.cache
+C:\Users\djang\source\repos\TimerApp\TimerApp\obj\Debug\net7.0\TimerApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\djang\source\repos\TimerApp\TimerApp\obj\Debug\net7.0\TimerApp.AssemblyInfoInputs.cache
+C:\Users\djang\source\repos\TimerApp\TimerApp\obj\Debug\net7.0\TimerApp.AssemblyInfo.cs
+C:\Users\djang\source\repos\TimerApp\TimerApp\obj\Debug\net7.0\TimerApp.csproj.CoreCompileInputs.cache
+C:\Users\djang\source\repos\TimerApp\TimerApp\obj\Debug\net7.0\TimerApp.dll
+C:\Users\djang\source\repos\TimerApp\TimerApp\obj\Debug\net7.0\refint\TimerApp.dll
+C:\Users\djang\source\repos\TimerApp\TimerApp\obj\Debug\net7.0\TimerApp.pdb
+C:\Users\djang\source\repos\TimerApp\TimerApp\obj\Debug\net7.0\TimerApp.genruntimeconfig.cache
+C:\Users\djang\source\repos\TimerApp\TimerApp\obj\Debug\net7.0\ref\TimerApp.dll
